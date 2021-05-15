@@ -1,0 +1,1 @@
+# Lambda_remove_user_from_OU
